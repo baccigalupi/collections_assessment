@@ -1,3 +1,5 @@
+# Looks great. This isn't conventional Ruby indentation/alignment, but it is very easy to read
+
 students = [
 
    "John" => {
